@@ -2,7 +2,7 @@
 <h3 align="justify">A Imersão React é gratuita e é voltada para profissionais, estudantes e para todo mundo que quer aprender mais sobre front-end.  O projeto é uma versão do Orkut, criado com React, styled-components e next/js </h3>
 
 <h3> 
-[Clique aqui para ver como está o projeto!](https://alurakut-cas.vercel.app/) 
+[Clique aqui para ver como está o projeto!](https://nextjs-alurakut.vercel.app/) 
 </h3>
 
 ## 💻 Linguagens e tecnologias utilizadas
